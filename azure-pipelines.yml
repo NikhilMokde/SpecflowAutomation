@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'WPG02HK2F'
+  vmImage: 'local'
 
 variables:
   solution: '**/*.sln'
