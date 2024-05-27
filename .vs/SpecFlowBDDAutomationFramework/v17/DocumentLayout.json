@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\pages\\channelpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:pages\\channelpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\features\\datatabledatadriventesting.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:features\\datatabledatadriventesting.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\features\\datadriventesting.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:features\\datadriventesting.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\features\\datatabledatadriventesting.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:features\\datatabledatadriventesting.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\features\\examplesdatadriventesting.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:features\\examplesdatadriventesting.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\features\\datadriventesting.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:features\\datadriventesting.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\utility\\extentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:utility\\extentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\pages\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:pages\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\pages\\resultpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:pages\\resultpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\features\\pageobjectmodel.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:features\\pageobjectmodel.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\stepdefinitions\\examplesdatadriventestingstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:stepdefinitions\\examplesdatadriventestingstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\stepdefinitions\\datatabledatadriventestingstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:stepdefinitions\\datatabledatadriventestingstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\features\\examplesdatadriventesting.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:features\\examplesdatadriventesting.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\stepdefinitions\\datadriventestingstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:stepdefinitions\\datadriventestingstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\testresults\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:testresults\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\stepdefinitions\\pageobjectmodelstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:stepdefinitions\\pageobjectmodelstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|c:\\specflow automation code\\specflowbddautomationframework\\specflowbddautomationframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E10F6A73-9392-463B-9B54-ACC903F93745}|SpecFlowBDDAutomationFramework.csproj|solutionrelative:specflowbddautomationframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataDrivenTesting.feature.cs",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\DataDrivenTesting.feature.cs",
+              "RelativeDocumentMoniker": "Features\\DataDrivenTesting.feature.cs",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\DataDrivenTesting.feature.cs",
+              "RelativeToolTip": "Features\\DataDrivenTesting.feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:38:26.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataTableDataDrivenTesting.feature.cs",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\DataTableDataDrivenTesting.feature.cs",
+              "RelativeDocumentMoniker": "Features\\DataTableDataDrivenTesting.feature.cs",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\DataTableDataDrivenTesting.feature.cs",
+              "RelativeToolTip": "Features\\DataTableDataDrivenTesting.feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:38:20.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator.feature",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\Calculator.feature",
+              "RelativeDocumentMoniker": "Features\\Calculator.feature",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\Calculator.feature",
+              "RelativeToolTip": "Features\\Calculator.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-18T03:37:58.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataTableDataDrivenTesting.feature",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\DataTableDataDrivenTesting.feature",
+              "RelativeDocumentMoniker": "Features\\DataTableDataDrivenTesting.feature",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\DataTableDataDrivenTesting.feature",
+              "RelativeToolTip": "Features\\DataTableDataDrivenTesting.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-13T12:48:35.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChannelPage.cs",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Pages\\ChannelPage.cs",
+              "RelativeDocumentMoniker": "Pages\\ChannelPage.cs",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Pages\\ChannelPage.cs",
+              "RelativeToolTip": "Pages\\ChannelPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:16:20.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExtentReport.cs",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Utility\\ExtentReport.cs",
+              "RelativeDocumentMoniker": "Utility\\ExtentReport.cs",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Utility\\ExtentReport.cs",
+              "RelativeToolTip": "Utility\\ExtentReport.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:17:34.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "ImplicitUsings.cs",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\ImplicitUsings.cs",
+              "RelativeToolTip": "ImplicitUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:37:31.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchPage.cs",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Pages\\SearchPage.cs",
+              "RelativeDocumentMoniker": "Pages\\SearchPage.cs",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Pages\\SearchPage.cs",
+              "RelativeToolTip": "Pages\\SearchPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:16:20.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataDrivenTesting.feature",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\DataDrivenTesting.feature",
+              "RelativeDocumentMoniker": "Features\\DataDrivenTesting.feature",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\DataDrivenTesting.feature",
+              "RelativeToolTip": "Features\\DataDrivenTesting.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-13T11:42:40.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExamplesDataDrivenTesting.feature",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\ExamplesDataDrivenTesting.feature",
+              "RelativeDocumentMoniker": "Features\\ExamplesDataDrivenTesting.feature",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\ExamplesDataDrivenTesting.feature",
+              "RelativeToolTip": "Features\\ExamplesDataDrivenTesting.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-13T12:14:45.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResultPage.cs",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Pages\\ResultPage.cs",
+              "RelativeDocumentMoniker": "Pages\\ResultPage.cs",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Pages\\ResultPage.cs",
+              "RelativeToolTip": "Pages\\ResultPage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:16:20.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PageObjectModel.feature",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\PageObjectModel.feature",
+              "RelativeDocumentMoniker": "Features\\PageObjectModel.feature",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\PageObjectModel.feature",
+              "RelativeToolTip": "Features\\PageObjectModel.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-13T10:16:20.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExamplesDataDrivenTestingStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\StepDefinitions\\ExamplesDataDrivenTestingStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\ExamplesDataDrivenTestingStepDefinitions.cs",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\StepDefinitions\\ExamplesDataDrivenTestingStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\ExamplesDataDrivenTestingStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:24:59.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataTableDataDrivenTestingStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\StepDefinitions\\DataTableDataDrivenTestingStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\DataTableDataDrivenTestingStepDefinitions.cs",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\StepDefinitions\\DataTableDataDrivenTestingStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\DataTableDataDrivenTestingStepDefinitions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAABQwBEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:48:48.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExamplesDataDrivenTesting.feature.cs",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\ExamplesDataDrivenTesting.feature.cs",
+              "RelativeDocumentMoniker": "Features\\ExamplesDataDrivenTesting.feature.cs",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Features\\ExamplesDataDrivenTesting.feature.cs",
+              "RelativeToolTip": "Features\\ExamplesDataDrivenTesting.feature.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:14:55.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataDrivenTestingStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\StepDefinitions\\DataDrivenTestingStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\DataDrivenTestingStepDefinitions.cs",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\StepDefinitions\\DataDrivenTestingStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\DataDrivenTestingStepDefinitions.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:42:24.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "Hooks\\Hooks.cs",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "Hooks\\Hooks.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:24:20.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\TestResults\\index.html",
+              "RelativeDocumentMoniker": "TestResults\\index.html",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\TestResults\\index.html",
+              "RelativeToolTip": "TestResults\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-13T10:21:19.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PageObjectModelStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\StepDefinitions\\PageObjectModelStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\PageObjectModelStepDefinitions.cs",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\StepDefinitions\\PageObjectModelStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\PageObjectModelStepDefinitions.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwC4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:16:20.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SpecFlowBDDAutomationFramework.csproj",
+              "DocumentMoniker": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
+              "RelativeDocumentMoniker": "SpecFlowBDDAutomationFramework.csproj",
+              "ToolTip": "C:\\Specflow Automation code\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
+              "RelativeToolTip": "SpecFlowBDDAutomationFramework.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T10:16:20.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
